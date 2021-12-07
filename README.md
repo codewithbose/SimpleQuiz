@@ -1,2 +1,2 @@
 # SimpleQuiz
-This a simple quiz platform using HTML, CSS, PHP, SQL
+This is a simple quiz platform using HTML, CSS, PHP, SQL
